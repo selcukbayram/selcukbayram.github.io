@@ -6,7 +6,7 @@ theme = 'PaperMod'
 [params]
   env = "production"
   title = "Selçuk Bayram"
-  description = "Kişisel web sitesi ve teknoloji günlüğü."
+  description = "Geleceğin Mühendisi | Yazılım ve Elektronik Günlüğü"
   keywords = ["Blog", "Portfolyo", "Embedded Systems", "Selçuk Bayram"]
   author = "Selçuk Bayram"
   showToc = true
@@ -20,7 +20,32 @@ theme = 'PaperMod'
   showPostNavLinks = true
   showWordCount = true
   useHugoFavicon = true
-  profileMode = { enabled = true, title = "Selçuk Bayram", subtitle = "Geleceğin Mühendisi | Yazılım ve Elektronik Tutkunu", text = "Hobilerim, projelerim ve teknoloji yolculuğum bu sayfada.", imageUrl = "IMG_5304.jpg", imageWidth = 120, imageHeight = 120, imageTitle = "Selçuk Bayram" }
+  
+  [params.profileMode]
+    enabled = true
+    title = "Selçuk Bayram"
+    subtitle = "Geleceğin Mühendisi | Yazılım ve Elektronik Tutkunu"
+    text = "Ankara Üniversitesi'nde öğrenciyim. Gömülü sistemler, mikrodenetleyiciler ve teknoloji projelerim bu sayfada."
+    imageUrl = "IMG_5304.jpg"
+    imageWidth = 120
+    imageHeight = 120
+    imageTitle = "Selçuk Bayram"
+
+    [[params.profileMode.buttons]]
+      name = "Hakkımda"
+      url = "#"
+
+    [[params.profileMode.buttons]]
+      name = "Projeler"
+      url = "#"
+
+    [[params.profileMode.buttons]]
+      name = "Blog"
+      url = "#"
+
+    [[params.profileMode.buttons]]
+      name = "İletişim"
+      url = "https://www.linkedin.com/in/selcukbayram0"
 
   [[params.socialIcons]]
     name = "linkedin"
