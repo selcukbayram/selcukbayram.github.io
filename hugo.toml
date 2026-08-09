@@ -1,0 +1,45 @@
+baseURL = 'https://selcukbayram.github.io/'
+languageCode = 'tr-TR'
+title = 'Selçuk Bayram'
+theme = 'PaperMod'
+
+[params]
+  env = "production"
+  title = "Selçuk Bayram"
+  description = "Kişisel web sitesi ve teknoloji günlüğü."
+  keywords = ["Blog", "Portfolyo", "Embedded Systems", "Selçuk Bayram"]
+  author = "Selçuk Bayram"
+  showToc = true
+  TocOpen = false
+  hidemeta = false
+  comments = false
+  disableShare = false
+  disableHLJS = false
+  showReadingTime = true
+  showBreadCrumbs = true
+  showPostNavLinks = true
+  showWordCount = true
+  useHugoFavicon = true
+  profileMode = { enabled = true, title = "Selçuk Bayram", subtitle = "Geleceğin Mühendisi | Yazılım ve Elektronik Tutkunu", text = "Hobilerim, projelerim ve teknoloji yolculuğum bu sayfada.", imageUrl = "IMG_5304.jpg", imageWidth = 120, imageHeight = 120, imageTitle = "Selçuk Bayram" }
+
+  [[params.socialIcons]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/selcukbayram0"
+
+  [[params.socialIcons]]
+    name = "instagram"
+    url = "https://www.instagram.com/selcukbayram0"
+
+[outputs]
+  home = ["HTML", "JSON", "RSS"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    noClasses = false
+    codeFences = true
+    guessSyntax = true
+    lineNos = true
+    style = "github-dark"
