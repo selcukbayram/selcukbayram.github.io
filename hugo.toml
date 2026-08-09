@@ -1,5 +1,5 @@
 baseURL = 'https://selcukbayram.github.io/'
-languageCode = 'tr-TR'
+locale = 'tr-TR'
 title = 'Selçuk Bayram'
 theme = 'PaperMod'
 
