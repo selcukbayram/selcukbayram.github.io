@@ -19,7 +19,11 @@ classes:
 
 [Bana Tıkla ve Hediyeyi İndir](/psikolojimiz-bozuldu.mp4)
 
-``` <div style="text-align: center;">
-    <iframe src="/gözlem-rehber.pdf" width="100%" height="600px"></iframe>
+## Öğrendiğim Kodlar:
+Bu kod bloğu siteye pdf gömmek için kullanılır:
+``` 
+<div style="text-align: center;">
+    <iframe src="/dosya-adin.pdf" width="100%" height="600px"></iframe>
 </div>
+```
 
