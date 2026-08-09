@@ -1,4 +1,6 @@
-/* Sadece wide-page etiketi eklenen sayfalar genişlesin, diğerleri temanın orijinalinde kalsın */
-body.wide-page .main {
-    max-width: 1500px !important;
+/* Telefon ve tabletlerde (ekran küçüldüğünde) standart haline döner, bozulma olmaz */
+@media (min-width: 768px) {
+    body.wide-page .main {
+        max-width: 1400px !important;
+    }
 }
