@@ -1,7 +1,7 @@
 ---
 title: "N.I.N.A İle Gözlem Kılavuzu"
 date: 2026-08-09T21:04:00+03:00
-draft: false
+draft: true
 classes:
 ---
 
