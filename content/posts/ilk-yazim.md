@@ -26,3 +26,4 @@ Bu kod bloğu siteye pdf gömmek için kullanılır:
     <iframe src="/dosya-adin.pdf" width="100%" height="600px"></iframe>
 </div>
 
+
