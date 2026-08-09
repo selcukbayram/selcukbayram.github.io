@@ -18,7 +18,7 @@ classes:
 | Ebru | Bayram |
 
 [Bana Tıkla ve Hediyeyi İndir](/psikolojimiz-bozuldu.mp4)
-![Bana Tıkla ve Hediyeyi Gör](/psikolojimiz-bozuldu.mp4)
+![Bana Tıkla ve Hediyeyi Gör](/gorsel-1)
 
 ``` <div style="text-align: center;">
     <iframe src="/gözlem-rehber.pdf" width="100%" height="600px"></iframe>
