@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Selçuk Bayram</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Selçuk Bayram</description>
+    <generator>Hugo</generator>
+    <language>tr-TR</language>
+    <lastBuildDate>Sun, 09 Aug 2026 21:04:00 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>İlk Blog Yazım: Etkinlik Hazırlıkları</title>
+      <link>http://localhost:1313/posts/ilk-yazim/</link>
+      <pubDate>Sun, 09 Aug 2026 21:04:00 +0300</pubDate>
+      <guid>http://localhost:1313/posts/ilk-yazim/</guid>
+      <description>&lt;h1 id=&#34;bu-bir-büyük-başlıktır-tablo-yapmayı-öğreniyorum&#34;&gt;Bu Bir Büyük Başlıktır Tablo Yapmayı Öğreniyorum&lt;/h1&gt;
+&lt;p&gt;İhtiyaç olan karakterler:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Tire (-)&lt;/li&gt;
+&lt;li&gt;Dik Çizgi (Dik çizgi yapmak için Ctrl, alt, tire beraber kullanılır)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;table&gt;
+	&lt;thead&gt;
+			&lt;tr&gt;
+					&lt;th&gt;Ad&lt;/th&gt;
+					&lt;th&gt;Soyad&lt;/th&gt;
+			&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Selçuk&lt;/td&gt;
+					&lt;td&gt;Bayram&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Beria&lt;/td&gt;
+					&lt;td&gt;Bayram&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Kadir&lt;/td&gt;
+					&lt;td&gt;Bayram&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Ebru&lt;/td&gt;
+					&lt;td&gt;Bayram&lt;/td&gt;
+			&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+    &lt;iframe src=&#34;http://localhost:1313/gözlem-rehber.pdf&#34; width=&#34;100%&#34; height=&#34;600px&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/tam-rehber-son1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/tam-rehber-son1/</guid>
+      <description>&lt;h1&gt;&lt;strong&gt;&lt;mark&gt;Adım Adım N.I.N.A Gözlem Rehberi:&lt;/mark&gt;&lt;/strong&gt;&lt;/h1&gt;
+&lt;h1 id=&#34;adım-1-fiziksel-kurulum-ve-kubbe-açılışı&#34;&gt;&lt;strong&gt;Adım 1: Fiziksel Kurulum ve Kubbe Açılışı&lt;/strong&gt;&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Güç Aktivasyonu:&lt;/strong&gt; Akşam havası gözlem için uygunsa bilgisayar odasına geçilir. Duvarda yer alan filtre, odaklayıcı (focuser) ve kubbe görüntü sistemlerine elektrik veren o beyaz tuşlar açılır.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Oturum Açma:&lt;/strong&gt; Bilgisayar açılır ve NINA Gözlemci oturumuna girilir. Şifre 55900&amp;rsquo;dür.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Yazılımların Başlatılması:&lt;/strong&gt; Masaüstünden N.I.N.A. programı ve kubbe kontrolü için Dome Control programı çalıştırılır.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Mekanik Kubbe Açılışı:&lt;/strong&gt; Kubbeye fiziksel olarak çıkılır. Panolardan kubbe kapağını açmak için şu mekanik hiyerarşi izlenir:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
