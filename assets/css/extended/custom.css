@@ -1,0 +1,10 @@
+/* Normal yazılar standart ve okunabilir darlıkta kalsın */
+.main {
+    max-width: 720px;
+    transition: max-width 0.3s ease;
+}
+
+/* Eğer yazının içine geniş sınıfı eklersek ekranı kaplasın */
+body.wide-page .main {
+    max-width: 1200px !important;
+}

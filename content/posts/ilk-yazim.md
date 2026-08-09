@@ -2,6 +2,7 @@
 title: "İlk Blog Yazım: Etkinlik Hazırlıkları"
 date: 2026-08-09T21:04:00+03:00
 draft: false
+classes: ["wide-page"]
 ---
 
 # Bu Bir Büyük Başlıktır Tablo Yapmayı Öğreniyorum
