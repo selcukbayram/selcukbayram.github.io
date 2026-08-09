@@ -1,3 +1,10 @@
+---
+title: "N.I.N.A İle Gözlem Kılavuzu"
+date: 2026-08-09T21:04:00+03:00
+draft: false
+classes:
+---
+
 # **<mark>Adım Adım N.I.N.A Gözlem Rehberi:</mark>** 
 
 # **Adım 1: Fiziksel Kurulum ve Kubbe Açılışı** 
