@@ -20,7 +20,7 @@ theme = 'PaperMod'
   showPostNavLinks = true
   showWordCount = true
   useHugoFavicon = true
-  
+
   [params.profileMode]
     enabled = true
     title = "Selçuk Bayram"
@@ -31,21 +31,21 @@ theme = 'PaperMod'
     imageHeight = 120
     imageTitle = "Selçuk Bayram"
 
-    [[params.profileMode.buttons]]
-      name = "Hakkımda"
-      url = "#"
+  [[params.profileMode.buttons]]
+    name = "Hakkımda"
+    url = "#"
 
-    [[params.profileMode.buttons]]
-      name = "Projeler"
-      url = "#"
+  [[params.profileMode.buttons]]
+    name = "Projeler"
+    url = "#"
 
-    [[params.profileMode.buttons]]
-      name = "Blog"
-      url = "#"
+  [[params.profileMode.buttons]]
+    name = "Blog"
+    url = "#"
 
-    [[params.profileMode.buttons]]
-      name = "İletişim"
-      url = "https://www.linkedin.com/in/selcukbayram0"
+  [[params.profileMode.buttons]]
+    name = "İletişim"
+    url = "https://www.linkedin.com/in/selcukbayram0"
 
   [[params.socialIcons]]
     name = "linkedin"
