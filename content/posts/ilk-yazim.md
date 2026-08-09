@@ -20,3 +20,4 @@ classes: ["wide-page"]
 <div style="text-align: center;">
     <iframe src="/gözlem-rehber.pdf" width="100%" height="600px"></iframe>
 </div>
+
