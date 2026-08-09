@@ -8,9 +8,14 @@ draft: false
 İhtiyaç olan karakterler:
 * Tire (-)
 * Dik Çizgi (Dik çizgi yapmak için Ctrl, alt, tire beraber kullanılır)
+
 | Ad | Soyad |
 |-----|-----|
 | Selçuk | Bayram |
 | Beria | Bayram|
 | Kadir | Bayram|
 | Ebru | Bayram |
+
+<div style="text-align: center;">
+    <iframe src="/gözlem-rehber.pdf" width="100%" height="600px"></iframe>
+</div>
