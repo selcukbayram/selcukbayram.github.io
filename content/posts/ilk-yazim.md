@@ -1,8 +1,8 @@
 ---
-title: "İlk Blog Yazım: Etkinlik Hazırlıkları"
+title: "İlk Blog Yazım"
 date: 2026-08-09T21:04:00+03:00
 draft: false
-classes: ["wide-page"]
+classes:
 ---
 
 # Bu Bir Büyük Başlıktır Tablo Yapmayı Öğreniyorum
@@ -17,7 +17,10 @@ classes: ["wide-page"]
 | Kadir | Bayram|
 | Ebru | Bayram |
 
-<div style="text-align: center;">
+[Bana Tıkla ve Hediyeyi İndir](/psikolojimiz-bozuldu.mp4)
+![Bana Tıkla ve Hediyeyi Gör](/psikolojimiz-bozuldu.mp4)
+
+``` <div style="text-align: center;">
     <iframe src="/gözlem-rehber.pdf" width="100%" height="600px"></iframe>
 </div>
 
