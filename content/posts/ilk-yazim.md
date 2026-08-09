@@ -10,7 +10,7 @@ draft: false
 * Dik Çizgi (Dik çizgi yapmak için Ctrl, alt, tire beraber kullanılır)
 | Ad | Soyad |
 |-----|-----|
-|Selçuk|Bayram|
-|Beria|Bayram|
-|Kadir|Bayram|
+| Selçuk | Bayram |
+| Beria | Bayram|
+| Kadir | Bayram|
 | Ebru | Bayram |
