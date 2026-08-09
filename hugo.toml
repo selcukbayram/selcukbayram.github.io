@@ -24,7 +24,7 @@ theme = 'PaperMod'
   [params.profileMode]
     enabled = true
     title = "Selçuk Bayram"
-    subtitle = "Geleceğin Mühendisi | Yazılım ve Elektronik Tutkunu"
+    subtitle = "Metin1 | Metin2"
     text = "Ankara Üniversitesi'nde öğrenciyim. Gömülü sistemler, mikrodenetleyiciler ve teknoloji projelerim bu sayfada."
     imageUrl = "IMG_5304.jpg"
     imageWidth = 120
