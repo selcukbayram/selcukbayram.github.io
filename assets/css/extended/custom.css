@@ -1,4 +1,4 @@
 /* Sadece wide-page etiketi eklenen sayfalar genişlesin, diğerleri temanın orijinalinde kalsın */
 body.wide-page .main {
-    max-width: 1200px !important;
+    max-width: 1500px !important;
 }
