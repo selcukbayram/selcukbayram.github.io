@@ -6,7 +6,7 @@ theme = 'PaperMod'
 [params]
   env = "production"
   title = "Selçuk Bayram"
-  description = "Geleceğin Mühendisi | Yazılım ve Elektronik Günlüğü"
+  description = "Metin1 | Metin2"
   keywords = ["Blog", "Portfolyo", "Embedded Systems", "Selçuk Bayram"]
   author = "Selçuk Bayram"
   showToc = true
