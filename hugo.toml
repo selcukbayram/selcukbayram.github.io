@@ -41,7 +41,7 @@ theme = 'PaperMod'
 
   [[params.profileMode.buttons]]
     name = "Blog"
-    url = "#"
+    url = "/posts/"
 
   [[params.profileMode.buttons]]
     name = "İletişim"
