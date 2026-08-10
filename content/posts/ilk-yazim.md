@@ -17,7 +17,7 @@ classes:
 | Kadir | Bayram|
 | Ebru | Bayram |
 
-[Bana Tıkla ve Hediyeyi İndir](/psikolojimiz-bozuldu.mp4)
+[Bana Tıkla ve Hediyeyi İindir](/psikolojimiz-bozuldu.mp4)
 
 ## Öğrendiğim Kodlar:
 Bu kod bloğu siteye pdf gömmek için kullanılır:
@@ -25,5 +25,10 @@ Bu kod bloğu siteye pdf gömmek için kullanılır:
 <div style="text-align: center;">
     <iframe src="/dosya-adin.pdf" width="100%" height="600px"></iframe>
 </div>
+
+
+
+
+
 
 
