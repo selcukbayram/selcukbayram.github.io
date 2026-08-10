@@ -24,7 +24,7 @@ theme = 'PaperMod'
   [params.profileMode]
     enabled = true
     title = "Selçuk Bayram"
-    subtitle = "Marjinal bir şey bulamadım"
+    subtitle = ""
     imageUrl = "profil-fotografı.jpg"
     imageWidth = 120
     imageHeight = 120
@@ -49,6 +49,10 @@ theme = 'PaperMod'
   [[params.profileMode.buttons]]
     name = "Gallery"
     url = "/gallery"
+
+  [[params.profileMode.buttons]]
+    name = "Cv"
+    url = "/cv/"
 
   [[params.socialIcons]]
     name = "linkedin"
