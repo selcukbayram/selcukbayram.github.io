@@ -24,20 +24,19 @@ theme = 'PaperMod'
   [params.profileMode]
     enabled = true
     title = "Selçuk Bayram"
-    subtitle = "Metin1 | Metin2"
-    text = "Ankara Üniversitesi'nde öğrenciyim. Gömülü sistemler, mikrodenetleyiciler ve teknoloji projelerim bu sayfada."
+    subtitle = "Marjinal bir şey bulamadım"
     imageUrl = "profil-fotografı.jpg"
     imageWidth = 120
     imageHeight = 120
-    imageTitle = "Selçuk Bayram"
+
 
   [[params.profileMode.buttons]]
     name = "Hakkımda"
-    url = "#"
+    url = "/hakkımda/"
 
   [[params.profileMode.buttons]]
     name = "Projeler"
-    url = "#"
+    url = "/projeler/"
 
   [[params.profileMode.buttons]]
     name = "Blog"
@@ -45,15 +44,19 @@ theme = 'PaperMod'
 
   [[params.profileMode.buttons]]
     name = "İletişim"
-    url = "https://www.linkedin.com/in/selcukbayram0"
+    url = "#"
+
+  [[params.profileMode.buttons]]
+    name = "Gallery"
+    url = "/gallery"
 
   [[params.socialIcons]]
     name = "linkedin"
     url = "https://www.linkedin.com/in/selcukbayram0"
 
   [[params.socialIcons]]
-    name = "instagram"
-    url = "https://www.instagram.com/selcukbayram0"
+    name = "GitHub"
+    url = "https://github.com/selcukbayram"
 
 [outputs]
   home = ["HTML", "JSON", "RSS"]
