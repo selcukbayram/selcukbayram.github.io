@@ -19,6 +19,16 @@ classes:
 | Ebru | Bayram |
 
 
+<details>
+  <summary>Buraya Tıklayın (Başlık)</summary>
+  
+  * Gizli liste ögesi 1
+  * Gizli liste ögesi 2
+  * Gizli liste ögesi 3
+
+</details>
+
+
 
 
 

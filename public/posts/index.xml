@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Blog Yazılarım on Selçuk Bayram</title>
-    <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Blog Yazılarım on Selçuk Bayram</description>
+    <title>Posts on Selçuk Bayram</title>
+    <link>http://localhost:50924/posts/</link>
+    <description>Recent content in Posts on Selçuk Bayram</description>
     <generator>Hugo</generator>
     <language>tr-TR</language>
     <lastBuildDate>Sun, 09 Aug 2026 21:04:00 +0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:50924/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>İlk Blog Yazım</title>
-      <link>http://localhost:1313/posts/ilk-yazim/</link>
+      <link>http://localhost:50924/posts/ilk-yazim/</link>
       <pubDate>Sun, 09 Aug 2026 21:04:00 +0300</pubDate>
-      <guid>http://localhost:1313/posts/ilk-yazim/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/psikolojimiz-bozuldu.mp4&#34;&gt;Psikolojimiz Bozuldu&lt;/a&gt;&lt;/p&gt;
+      <guid>http://localhost:50924/posts/ilk-yazim/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:50924/psikolojimiz-bozuldu.mp4&#34;&gt;Psikolojimiz Bozuldu&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;bu-bir-başlıktır-tablo-yapmayı-öğreniyorum&#34;&gt;Bu Bir Başlıktır Tablo Yapmayı Öğreniyorum&lt;/h3&gt;
 &lt;p&gt;İhtiyaç olan karakterler:&lt;/p&gt;
 &lt;ul&gt;
@@ -45,13 +45,21 @@
 					&lt;td&gt;Bayram&lt;/td&gt;
 			&lt;/tr&gt;
 	&lt;/tbody&gt;
-&lt;/table&gt;</description>
+&lt;/table&gt;
+&lt;details&gt;
+  &lt;summary&gt;Buraya Tıklayın (Başlık)&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;Gizli liste ögesi 1&lt;/li&gt;
+&lt;li&gt;Gizli liste ögesi 2&lt;/li&gt;
+&lt;li&gt;Gizli liste ögesi 3&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;</description>
     </item>
     <item>
       <title>N.I.N.A İle Gözlem Kılavuzu</title>
-      <link>http://localhost:1313/posts/tam-rehber-son1/</link>
+      <link>http://localhost:50924/posts/tam-rehber-son1/</link>
       <pubDate>Sun, 09 Aug 2026 21:04:00 +0300</pubDate>
-      <guid>http://localhost:1313/posts/tam-rehber-son1/</guid>
+      <guid>http://localhost:50924/posts/tam-rehber-son1/</guid>
       <description>&lt;h1&gt;&lt;strong&gt;&lt;mark&gt;Adım Adım N.I.N.A Gözlem Rehberi:&lt;/mark&gt;&lt;/strong&gt;&lt;/h1&gt;
 &lt;h1 id=&#34;adım-1-fiziksel-kurulum-ve-kubbe-açılışı&#34;&gt;&lt;strong&gt;Adım 1: Fiziksel Kurulum ve Kubbe Açılışı&lt;/strong&gt;&lt;/h1&gt;
 &lt;ol&gt;
@@ -66,6 +74,13 @@
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Mekanik Kubbe Açılışı:&lt;/strong&gt; Kubbeye fiziksel olarak çıkılır. Panolardan kubbe kapağını açmak için şu mekanik hiyerarşi izlenir:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Yks İle İlgili Sayfalarım</title>
+      <link>http://localhost:50924/posts/yks/yks-posts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:50924/posts/yks/yks-posts/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:50924/posts/yks/osym-cozumlerı/osym-cozum/&#34;&gt;Ösym Çıkmış Soru Çözümleri İçin Tıklayınız&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

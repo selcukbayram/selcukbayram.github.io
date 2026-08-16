@@ -1,5 +1,3 @@
 ---
-title: "Blog Yazılarım"
+title: "Posts"
 ---
-
-### Merhaba buraya eklemeler yapabilirsin

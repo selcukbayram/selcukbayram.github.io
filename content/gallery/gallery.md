@@ -1,0 +1,3 @@
+---
+Title: My Photo Gallery
+---

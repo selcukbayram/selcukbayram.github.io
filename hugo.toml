@@ -7,7 +7,7 @@ theme = 'PaperMod'
   env = "production"
   title = "Selçuk Bayram"
   description = "Metin1 | Metin2"
-  keywords = ["Blog", "Portfolyo", "Embedded Systems", "Selçuk Bayram"]
+  keywords = ["Portfolyo", "Selçuk Bayram", "Selcuk Bayram", "selcuk bayram", "selçuk bayram"]
   author = "Selçuk Bayram"
   showToc = true
   TocOpen = false
@@ -49,10 +49,6 @@ theme = 'PaperMod'
   [[params.profileMode.buttons]]
     name = "Gallery"
     url = "/gallery"
-
-  [[params.profileMode.buttons]]
-    name = "Cv"
-    url = "/cv/"
 
   [[params.socialIcons]]
     name = "linkedin"
