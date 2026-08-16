@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Selçuk Bayram</title>
-    <link>http://localhost:50924/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Selçuk Bayram</description>
     <generator>Hugo</generator>
     <language>tr-TR</language>
     <lastBuildDate>Sun, 09 Aug 2026 21:04:00 +0300</lastBuildDate>
-    <atom:link href="http://localhost:50924/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>İlk Blog Yazım</title>
-      <link>http://localhost:50924/posts/ilk-yazim/</link>
+      <link>http://localhost:1313/posts/ilk-yazim/</link>
       <pubDate>Sun, 09 Aug 2026 21:04:00 +0300</pubDate>
-      <guid>http://localhost:50924/posts/ilk-yazim/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:50924/psikolojimiz-bozuldu.mp4&#34;&gt;Psikolojimiz Bozuldu&lt;/a&gt;&lt;/p&gt;
+      <guid>http://localhost:1313/posts/ilk-yazim/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/psikolojimiz-bozuldu.mp4&#34;&gt;Psikolojimiz Bozuldu&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;bu-bir-başlıktır-tablo-yapmayı-öğreniyorum&#34;&gt;Bu Bir Başlıktır Tablo Yapmayı Öğreniyorum&lt;/h3&gt;
 &lt;p&gt;İhtiyaç olan karakterler:&lt;/p&gt;
 &lt;ul&gt;
@@ -57,9 +57,9 @@
     </item>
     <item>
       <title>N.I.N.A İle Gözlem Kılavuzu</title>
-      <link>http://localhost:50924/posts/tam-rehber-son1/</link>
+      <link>http://localhost:1313/posts/tam-rehber-son1/</link>
       <pubDate>Sun, 09 Aug 2026 21:04:00 +0300</pubDate>
-      <guid>http://localhost:50924/posts/tam-rehber-son1/</guid>
+      <guid>http://localhost:1313/posts/tam-rehber-son1/</guid>
       <description>&lt;h1&gt;&lt;strong&gt;&lt;mark&gt;Adım Adım N.I.N.A Gözlem Rehberi:&lt;/mark&gt;&lt;/strong&gt;&lt;/h1&gt;
 &lt;h1 id=&#34;adım-1-fiziksel-kurulum-ve-kubbe-açılışı&#34;&gt;&lt;strong&gt;Adım 1: Fiziksel Kurulum ve Kubbe Açılışı&lt;/strong&gt;&lt;/h1&gt;
 &lt;ol&gt;
@@ -77,18 +77,80 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:50924/gallery/</link>
+      <link>http://localhost:1313/gallery/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50924/gallery/</guid>
+      <guid>http://localhost:1313/gallery/</guid>
       <description>&lt;h3 id=&#34;my-photo-gallery&#34;&gt;My Photo Gallery&lt;/h3&gt;
-&lt;p&gt;Beautiful moments from my life.&lt;/p&gt;
-&lt;hr&gt;</description>
+&lt;div style=&#34;display: flex; gap: 20px;&#34;&gt;
+    &lt;div style=&#34;flex: 1;&#34;&gt;
+        &lt;figure&gt;
+            &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/gallery-fotograflar/1.jpg&#34;
+                 alt=&#34;Resim 1&#34; width=&#34;100%&#34;/&gt; 
+        &lt;/figure&gt;
+
+    &lt;/div&gt;
+    &lt;div style=&#34;flex: 1;&#34;&gt;
+        &lt;figure&gt;
+            &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/gallery-fotograflar/3.jpg&#34;
+                 alt=&#34;Resim 2&#34; width=&#34;100%&#34;/&gt; 
+        &lt;/figure&gt;
+
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div style=&#34;display: flex; gap: 20px;&#34;&gt;
+    &lt;div style=&#34;flex: 1;&#34;&gt;
+        &lt;figure&gt;
+            &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/gallery-fotograflar/9.jpg&#34;
+                 alt=&#34;Resim 1&#34; width=&#34;100%&#34;/&gt; 
+        &lt;/figure&gt;
+
+    &lt;/div&gt;
+    &lt;div style=&#34;flex: 1;&#34;&gt;
+        &lt;figure&gt;
+            &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/gallery-fotograflar/5.jpg&#34;
+                 alt=&#34;Resim 2&#34; width=&#34;100%&#34;/&gt; 
+        &lt;/figure&gt;
+
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div style=&#34;display: flex; gap: 20px;&#34;&gt;
+    &lt;div style=&#34;flex: 1;&#34;&gt;
+        &lt;figure&gt;
+            &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/gallery-fotograflar/7.jpg&#34;
+                 alt=&#34;Resim 1&#34; width=&#34;100%&#34;/&gt; 
+        &lt;/figure&gt;
+
+    &lt;/div&gt;
+    &lt;div style=&#34;flex: 1;&#34;&gt;
+        &lt;figure&gt;
+            &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/gallery-fotograflar/6.jpg&#34;
+                 alt=&#34;Resim 2&#34; width=&#34;100%&#34;/&gt; 
+        &lt;/figure&gt;
+
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div style=&#34;display: flex; gap: 20px;&#34;&gt;
+    &lt;div style=&#34;flex: 1;&#34;&gt;
+        &lt;figure&gt;
+            &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/gallery-fotograflar/4.jpg&#34;
+                 alt=&#34;Resim 1&#34; width=&#34;100%&#34;/&gt; 
+        &lt;/figure&gt;
+
+    &lt;/div&gt;
+        &lt;div style=&#34;flex: 1;&#34;&gt;
+        &lt;figure&gt;
+            &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/gallery-fotograflar/10.jpg&#34;
+                 alt=&#34;Resim 1&#34; width=&#34;100%&#34;/&gt; 
+        &lt;/figure&gt;
+
+    &lt;/div&gt;
+&lt;/div&gt;</description>
     </item>
     <item>
       <title>Hakkımda</title>
-      <link>http://localhost:50924/hakk%C4%B1mda/</link>
+      <link>http://localhost:1313/hakk%C4%B1mda/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50924/hakk%C4%B1mda/</guid>
+      <guid>http://localhost:1313/hakk%C4%B1mda/</guid>
       <description>&lt;h3 id=&#34;hakkımda&#34;&gt;Hakkımda&lt;/h3&gt;
 &lt;hr&gt;
 &lt;p&gt;Merhaba ben Selçuk.&lt;/p&gt;
@@ -124,42 +186,42 @@
 &lt;h3 id=&#34;iletişim&#34;&gt;İletişim&lt;/h3&gt;
 &lt;hr&gt;
 &lt;div style=&#34;display: flex; align-items: center; gap: 12px; margin-bottom: 8px;&#34;&gt;
-    &lt;img src=&#34;http://localhost:50924/hakkimda-uygulama-logo/gmail.png&#34; width=&#34;20&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/hakkimda-uygulama-logo/gmail.png&#34; width=&#34;20&#34;&gt;
     &lt;span&gt;E-Posta: &lt;a href=&#34;mailto:selcukbayram101@gmail.com&#34;&gt;selcukbayram101@gmail.com&lt;/a&gt;&lt;/span&gt;
 &lt;/div&gt;
 &lt;div style=&#34;display: flex; align-items: center; gap: 12px; margin-bottom: 8px;&#34;&gt;
-    &lt;img src=&#34;http://localhost:50924/hakkimda-uygulama-logo/github.png&#34; width=&#34;20&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/hakkimda-uygulama-logo/github.png&#34; width=&#34;20&#34;&gt;
     &lt;span&gt;GitHub: &lt;a href=&#34;https://github.com/selcukbayram&#34;&gt;github.com/selcukbayram&lt;/a&gt;&lt;/span&gt;
 &lt;/div&gt;
 &lt;div style=&#34;display: flex; align-items: center; gap: 12px; margin-bottom: 8px;&#34;&gt;
-    &lt;img src=&#34;http://localhost:50924/hakkimda-uygulama-logo/linkedin.png&#34; width=&#34;20&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/hakkimda-uygulama-logo/linkedin.png&#34; width=&#34;20&#34;&gt;
     &lt;span&gt;LinkedIn: &lt;a href=&#34;https://linkedin.com/in/selcukbayram0&#34;&gt;linkedin.com/in/selcukbayram0&lt;/a&gt;&lt;/span&gt;
 &lt;/div&gt;
 &lt;div style=&#34;display: flex; align-items: center; gap: 12px; margin-bottom: 8px;&#34;&gt;
-    &lt;img src=&#34;http://localhost:50924/hakkimda-uygulama-logo/instagram.png&#34; width=&#34;20&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/hakkimda-uygulama-logo/instagram.png&#34; width=&#34;20&#34;&gt;
     &lt;span&gt;Instagram: &lt;a href=&#34;https://instagram.com/selcukbayram0&#34;&gt;@selcukbayram0&lt;/a&gt;&lt;/span&gt;
 &lt;/div&gt;</description>
     </item>
     <item>
       <title>My Photo Gallery</title>
-      <link>http://localhost:50924/gallery/gallery/</link>
+      <link>http://localhost:1313/gallery/gallery/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50924/gallery/gallery/</guid>
+      <guid>http://localhost:1313/gallery/gallery/</guid>
       <description></description>
     </item>
     <item>
       <title>Projeler</title>
-      <link>http://localhost:50924/projeler/</link>
+      <link>http://localhost:1313/projeler/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50924/projeler/</guid>
+      <guid>http://localhost:1313/projeler/</guid>
       <description></description>
     </item>
     <item>
       <title>Yks İle İlgili Sayfalarım</title>
-      <link>http://localhost:50924/posts/yks/yks-posts/</link>
+      <link>http://localhost:1313/posts/yks/yks-posts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50924/posts/yks/yks-posts/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:50924/posts/yks/osym-cozumlerı/osym-cozum/&#34;&gt;Ösym Çıkmış Soru Çözümleri İçin Tıklayınız&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/yks/yks-posts/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/posts/yks/osym-cozumlerı/osym-cozum/&#34;&gt;Ösym Çıkmış Soru Çözümleri İçin Tıklayınız&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

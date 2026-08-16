@@ -2,32 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:50924/posts/</loc>
+    <loc>http://localhost:51456/posts/</loc>
     <lastmod>2026-08-15T23:55:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:50924/</loc>
+    <loc>http://localhost:51456/</loc>
     <lastmod>2026-08-15T23:55:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:50924/posts/ilk-yazim/</loc>
+    <loc>http://localhost:51456/posts/ilk-yazim/</loc>
     <lastmod>2026-08-09T21:04:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:50924/posts/tam-rehber-son1/</loc>
+    <loc>http://localhost:51456/posts/tam-rehber-son1/</loc>
     <lastmod>2026-08-09T21:04:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:50924/gallery/</loc>
+    <loc>http://localhost:51456/gallery/</loc>
   </url><url>
-    <loc>http://localhost:50924/categories/</loc>
+    <loc>http://localhost:51456/categories/</loc>
   </url><url>
-    <loc>http://localhost:50924/hakk%C4%B1mda/</loc>
+    <loc>http://localhost:51456/hakk%C4%B1mda/</loc>
   </url><url>
-    <loc>http://localhost:50924/gallery/gallery/</loc>
+    <loc>http://localhost:51456/gallery/gallery/</loc>
   </url><url>
-    <loc>http://localhost:50924/projeler/</loc>
+    <loc>http://localhost:51456/projeler/</loc>
   </url><url>
-    <loc>http://localhost:50924/tags/</loc>
+    <loc>http://localhost:51456/tags/</loc>
   </url><url>
-    <loc>http://localhost:50924/posts/yks/yks-posts/</loc>
-  </url><url>
-    <loc>http://localhost:50924/posts/ytplaylist-kaydedilen-videolar/</loc>
+    <loc>http://localhost:51456/posts/yks/yks-posts/</loc>
   </url>
 </urlset>
